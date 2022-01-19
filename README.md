@@ -1,3 +1,3 @@
 # training1
 My first repository on GitHub
-Model Engineering College
+:books: :College: :research:
